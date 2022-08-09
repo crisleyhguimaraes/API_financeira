@@ -5,7 +5,11 @@
   "repository": "https://github.com/crisleyhguimaraes/API_financeira.git",
   "author": "crisleyhguimaraes <crisleyhguimaraes@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
   }
 }
