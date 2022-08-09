@@ -1,0 +1,8 @@
+{
+  "name": "API_financeira",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/crisleyhguimaraes/API_financeira.git",
+  "author": "crisleyhguimaraes <crisleyhguimaraes@gmail.com>",
+  "license": "MIT"
+}
