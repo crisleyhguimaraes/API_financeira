@@ -17,5 +17,5 @@
 - [✔️] Não deve ser possivel fazer depósito em uma conta inexistente
 - [✔️] Não deve ser possivel buscar extrato de uma conta inexistente
 - [✔️] Não deve ser possivel fazer saque de uma conta inexistente
+- [✔️] Não deve ser possivel fazer saque quando o saldo for insuficiente
 - [] Não deve ser possivel excluir uma conta inexistente
-- [] Não deve ser possivel fazer saque quando o saldo for insuficiente
